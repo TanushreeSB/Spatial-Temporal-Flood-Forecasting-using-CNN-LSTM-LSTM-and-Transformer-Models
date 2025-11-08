@@ -6,11 +6,11 @@ By comparing these models, we assess how temporal memory (LSTM), spatial feature
 
 ## Methodology (Steps)
 
-Data Collection: Rainfall, river discharge, and water level data from open hydrology datasets (e.g., Kaggle / IMD / CWC).
+- Data Collection: Rainfall, river discharge, and water level data from open hydrology datasets (e.g., Kaggle / IMD / CWC).
 
-Data Preprocessing: Handle missing data, normalization, and convert to sequences (sliding window).
+- Data Preprocessing: Handle missing data, normalization, and convert to sequences (sliding window).
 
-Model Development:
+- Model Development:
 
 LSTM for temporal sequence learning.
 
@@ -18,7 +18,7 @@ CNN-LSTM for spatial-temporal feature fusion.
 
 Transformer for attention-based sequence forecasting.
 
-Evaluation Metrics: RMSE, MAE, R² score.
+- Evaluation Metrics: RMSE, MAE, R² score.
 
 ## Visualization:
 

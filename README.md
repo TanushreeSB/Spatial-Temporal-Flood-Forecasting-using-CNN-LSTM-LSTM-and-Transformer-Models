@@ -12,11 +12,11 @@ By comparing these models, we assess how temporal memory (LSTM), spatial feature
 
 - Model Development:
 
-LSTM for temporal sequence learning.
-
-CNN-LSTM for spatial-temporal feature fusion.
-
-Transformer for attention-based sequence forecasting.
+   -  LSTM for temporal sequence learning.
+    
+   -  CNN-LSTM for spatial-temporal feature fusion.
+    
+   - Transformer for attention-based sequence forecasting.
 
 - Evaluation Metrics: RMSE, MAE, R² score.
 
